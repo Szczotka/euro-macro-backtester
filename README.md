@@ -2,6 +2,8 @@
 
 **Un framework de backtesting conditionné par les régimes macroéconomiques de la zone euro.**
 
+![Interface du Euro Macro Backtester](assets/screenshot.gif)
+
 La plupart des backtesters répondent à la question : *"Est-ce que cette stratégie est rentable ?"*
 Celui-ci répond à une question plus précise : *"Dans quel contexte macroéconomique cette stratégie fonctionne-t-elle — et est-ce que ça tient hors-échantillon ?"*
 
